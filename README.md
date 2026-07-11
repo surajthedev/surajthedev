@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi!
+### I am Suraj Kumar, an MCA graduate from Bokaro, Jharkhand, India.
+I'm a Full-Stack Engineer and an Open Source Enthusiast.
 
-<!--
-**surajthedev/surajthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+##  Languages & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,js,cpp,django,fastapi,mysql,postgres,mongodb,redis,docker,aws,git,bash,react,nodejs,tailwind,sass,astro,html,css,md,firebase,supabase,gcp,android,openai" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/suraj-kumar-b318922b0/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+</p>
