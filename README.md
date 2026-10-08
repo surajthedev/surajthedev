@@ -1,5 +1,5 @@
 # Hi!
-### I am Suraj Kumar, an MCA graduate from Bokaro, Jharkhand, India.
+### I am Suraj Kumar, an MCA graduate from Jharkhand, India.
 I'm a Full-Stack Engineer and an Open Source Enthusiast.
 
 ---
