@@ -17,3 +17,9 @@ I'm a Full-Stack Engineer and an Open Source Enthusiast.
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 </p>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/suraj-kumar-b318922b0/" target="_blank">
+<img src="https://skillicons.dev/icons?i=leetcode" width="50"/>
+</a>
+</p>
