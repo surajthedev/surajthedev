@@ -15,8 +15,6 @@ I'm a Full-Stack Engineer and an Open Source Enthusiast.
 <p align="left">
 <a href="https://www.linkedin.com/in/surajthedev/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-<a href="https://leetcode.com/u/surajkrthedev/" target="_blank">
-<img src="https://skillicons.dev/icons?i=leetcode" width="50"/>
 </a>
 </p>
 
